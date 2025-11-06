@@ -23,12 +23,9 @@
 1. regular search, replace or replace all
 1. change the font and font size
 1. “Word wrap” switch
-1. lock the screen orientation in: auto, horizontal or vertical
 1. remember the last open file
-1. hide the soft keyboard, long press the edit area can be turn on
 1. long press the “edit area” you can convert selected text to uppercase or lowercase
-1. auto indent
-1. keep the screen in the awake state
+1. auto inden
 1. you can run at ROOT permissions
 1. easy’s file manager, you can delete or rename the file, or open with other application to view, copy/move etc. to manage files
 1. use the volume keys to quickly switch the display/hide the toolbar, full-screen mode
